@@ -12,7 +12,7 @@ realtime-pipeline/ ├── docker-compose.yml ├── data-generator/ │ �
 
 ## Steps to Run
 
-1. Open terminal in the `realtime-pipeline/` folder.
+1. Open terminal in the `realtime-pipeline/` folder
 2. Start the project:
 
 Run docker compose up --build in the terminal
