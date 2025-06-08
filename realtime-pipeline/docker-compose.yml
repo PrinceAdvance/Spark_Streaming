@@ -1,4 +1,3 @@
-
 services:
   # This pulls the official PostgreSQL image (version 13) from Docker Hub.
   postgres:
