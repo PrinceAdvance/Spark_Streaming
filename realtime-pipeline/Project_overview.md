@@ -20,3 +20,4 @@ This project demonstrates a real-time data ingestion and processing pipeline usi
 - Batch ingestion in micro-batches
 - PostgreSQL integration
 - Docker-based orchestration
+- 
