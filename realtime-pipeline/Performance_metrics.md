@@ -2,7 +2,7 @@
 
 ## Test Setup
 
-- Run Time: 10 minutes
+- Run Time: 7 minutes
 - Event Frequency: 50 events every 10 seconds
 - Spark Micro-Batch Interval: Default
 - PostgreSQL on Docker
