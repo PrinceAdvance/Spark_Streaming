@@ -1,0 +1,2 @@
+# Library to generate fake csv files/customer actions
+faker
