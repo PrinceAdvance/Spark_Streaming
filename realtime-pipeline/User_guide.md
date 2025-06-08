@@ -16,6 +16,7 @@ realtime-pipeline/ ├── docker-compose.yml ├── data-generator/ │ �
 2. Start the project:
 
 Run docker compose up --build in the terminal
+
 3. Open another terminal and check data in PostgreSQL:
 
 
