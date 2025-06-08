@@ -3,3 +3,4 @@ port=5432
 database=ecommerce_db
 user=postgres
 password=postgres
+
