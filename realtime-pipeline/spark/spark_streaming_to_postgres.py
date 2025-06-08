@@ -39,5 +39,5 @@ def write_to_postgres(batch_df, batch_id):
 # Set up the streaming query and begin writing to PostgreSQL for each batc
 query = df_transformed.writeStream.foreachBatch(write_to_postgres).start()
 
-# Keep the application running until manually stopped
+# To Keep the application running until manually stopped
 query.awaitTermination()
